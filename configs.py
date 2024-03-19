@@ -33,7 +33,7 @@ Credit @Gi_Tamil_Cartoons
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/Gi_adminb)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [Sridharan](https://telegram.me/Gi_adminb)
  
  I am Super noob Please Support My Hard Work.
 """
