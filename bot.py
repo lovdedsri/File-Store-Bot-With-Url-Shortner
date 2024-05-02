@@ -82,7 +82,7 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Gi_Tamil_Serial_Group"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/+Bqw_xhNrZ9o4OTQ1"),
                         
                     ]
                 ]
@@ -362,7 +362,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/Gi_Tamil_Serial_Group"),
+                        InlineKeyboardButton("Support Group", url="https://t.me/+Bqw_xhNrZ9o4OTQ1"),
                         
                     ]
                 ]
@@ -412,7 +412,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Updates Channel", url="https://t.me/Gi_Tamil_Cartoons"),
-                        InlineKeyboardButton("Support Group", url="https://t.me/Gi_Tamil_Serial_Group")
+                        InlineKeyboardButton("Support Group", url="https://t.me/+Bqw_xhNrZ9o4OTQ1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
