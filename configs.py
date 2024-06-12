@@ -42,5 +42,5 @@ Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
 
 How to Use Bot & it's Benefits??
 
-📢 Send me any File & It will be uploaded in My Database & You will Get the File Link.
+📢 Send me any File & It will be uploaded in My Database & You will Get the File Link
 """
